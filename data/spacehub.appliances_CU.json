@@ -1,0 +1,807 @@
+[{
+  "_id": {
+    "$oid": "66fb94f0e758c49d8a023763"
+  },
+  "name": "Phòng dạy thêm",
+  "appliances": [
+    {
+      "name": "Ghế học sinh",
+      "iconName": "ChairAlt"
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam"
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi"
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat"
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction"
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit"
+    },
+    {
+      "name": "Laptop",
+      "iconName": "Laptop"
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker"
+    },
+    {
+      "name": "Máy in",
+      "iconName": "Print"
+    },
+    {
+      "name": "Kệ sách",
+      "iconName": "LibraryBooks"
+    },
+    {
+      "name": "Bục sân khấu",
+      "iconName": "PanoramaVerticalSelect"
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fb94f0e758c49d8a023766"
+  },
+  "name": "Phòng họp",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam"
+    },
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv"
+    },
+    {
+      "name": "Hệ thống âm thanh",
+      "iconName": "Speaker"
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair"
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect"
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit"
+    },
+    {
+      "name": "Bảng viết",
+      "iconName": "CallToAction"
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv"
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi"
+    },
+    {
+      "name": "Tủ đựng tài liệu",
+      "iconName": "Storage"
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb"
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  }
+},
+{
+  "_id": {
+    "$oid": "673e09fd64c0d49693c8b1f4"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "673e09fd64c0d49693c8b1f5"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "673e09fd64c0d49693c8b1f6"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "673e09fd64c0d49693c8b1f7"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "673e09fd64c0d49693c8b1f8"
+      }
+    },
+    {
+      "name": "Laptop",
+      "iconName": "Laptop",
+      "_id": {
+        "$oid": "673e09fd64c0d49693c8b1f9"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "673e09fd64c0d49693c8b1fa"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T16:10:37.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T16:10:37.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745ab6ba6e1a69b4e21ca34"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "6745ab6ba6e1a69b4e21ca35"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "6745ab6ba6e1a69b4e21ca36"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-11-26T11:05:15.512Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-26T11:05:15.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67471e37590e76b119d77cc4"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "67471e37590e76b119d77cc5"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "67471e37590e76b119d77cc6"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-11-27T13:27:19.148Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T13:27:19.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67471eab590e76b119d77e82"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "67471eab590e76b119d77e83"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "67471eab590e76b119d77e84"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-11-27T13:29:15.896Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T13:29:15.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747457410af8383df6e948d"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "6747457410af8383df6e948e"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "6747457410af8383df6e948f"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "6747457410af8383df6e9490"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-11-27T16:14:44.036Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T16:14:44.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67474c5a10af8383df6e9a7e"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "67474c5a10af8383df6e9a7f"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "67474c5a10af8383df6e9a80"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-11-27T16:44:10.252Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T16:44:10.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c7cc00eface59a1c0415e"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "674c7cc00eface59a1c0415f"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-01T15:12:00.523Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T15:12:00.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67516f3c3600f2b21ab8ef68"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "67516f3c3600f2b21ab8ef69"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "67516f3c3600f2b21ab8ef6a"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T09:15:40.397Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T09:15:40.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675176e3f1080b16403c8dbb"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675176e3f1080b16403c8dbc"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "675176e3f1080b16403c8dbd"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T09:48:19.141Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T13:03:44.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751abc416129063854ea1b1"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "6751abc416129063854ea1b2"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "6751abc416129063854ea1b3"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T13:33:56.051Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T13:33:56.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751ac0e16129063854ea1d5"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "6751ac0e16129063854ea1d6"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "6751ac0e16129063854ea1d7"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T13:35:10.113Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T13:35:10.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751ad9016129063854ea4ff"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "6751ad9016129063854ea500"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "6751ad9016129063854ea501"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T13:41:36.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T13:41:36.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751d7ec112c0522126d5883"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "6751d7ec112c0522126d5885"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "6751da0b7ba6829196319a9c"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T16:42:20.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-05T16:51:23.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ac1dec56c53cea46c647b"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "675ac1dec56c53cea46c647c"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-12T10:58:38.288Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T10:58:38.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ac227c428c76969a69458"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "675ac227c428c76969a69459"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-12T10:59:51.107Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T10:59:51.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ac287c428c76969a6947b"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675ac287c428c76969a6947c"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-12T11:01:27.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T11:01:27.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675aefe9bbf1549d730086ee"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "675aefe9bbf1549d730086ef"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-12T14:15:05.724Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T14:15:05.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675af0254ef8d8b9f82c32c3"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675af0254ef8d8b9f82c32c4"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "675af0254ef8d8b9f82c32c5"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-12T14:16:05.256Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T15:01:20.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675b83a52fabeed6dbe20c23"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "675b83a52fabeed6dbe20c24"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-13T00:45:25.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T00:45:25.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675c4befd47d9582b174ee02"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675af0254ef8d8b9f82c32c4"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "675af0254ef8d8b9f82c32c5"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-13T14:59:59.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T14:59:59.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675e9b71ef8ebcc4017a5d6a"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675e9b71ef8ebcc4017a5d6b"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-15T09:03:45.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T09:35:10.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ee9c4ceb740e995da9fd8"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675ee9c4ceb740e995da9fd9"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675ee9c4ceb740e995da9fda"
+      }
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat",
+      "_id": {
+        "$oid": "675ee9c4ceb740e995da9fdb"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-15T14:37:56.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-15T14:37:56.313Z"
+  },
+  "__v": 0
+}]

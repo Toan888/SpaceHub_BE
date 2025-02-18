@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeaaf"
+  },
+  "bankName": "Vietcombank",
+  "imageUrl": "https://static.wixstatic.com/media/9d8ed5_810e9e3b7fad40eca3ec5087da674662~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9d8ed5_810e9e3b7fad40eca3ec5087da674662~mv2.png"
+},
+{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeab0"
+  },
+  "bankName": "VietinBank",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLivHbziB9tjoR3OQuvR626wCxNQ-efzySfw&s"
+},
+{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeab1"
+  },
+  "bankName": "Techcombank",
+  "imageUrl": "https://static.wixstatic.com/media/9d8ed5_263edd01c0b847059f8035fd531145d6~mv2.png/v1/fill/w_1182,h_1182,al_c/9d8ed5_263edd01c0b847059f8035fd531145d6~mv2.png"
+},
+{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeab2"
+  },
+  "bankName": "MB Bank",
+  "imageUrl": "https://rubicmarketing.com/wp-content/uploads/2022/11/y-nghia-logo-mb-bank-2.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeab3"
+  },
+  "bankName": "ACB",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahOP_Mj1jezkbsOgT2ioLyLjYtpe36g-lng&s"
+},
+{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeab4"
+  },
+  "bankName": "Sacombank",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZBhsN51pj-7G8uIVHz3KA2wNxxcLHm2MK7A&s"
+},
+{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeab5"
+  },
+  "bankName": "SHB",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjRrwBfq1E-WFrTvv52yAEixIQ8OACiUPAA&s"
+},
+{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeab6"
+  },
+  "bankName": "SeABank",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDq8qdMVTriWmj-qgijnu771CDjTSfyefpyg&s"
+},
+{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeab8"
+  },
+  "bankName": "VPBank",
+  "imageUrl": "https://topads.vn/wp-content/uploads/2022/09/Logo-cua-VPBank.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeab9"
+  },
+  "bankName": "LienVietPostBank",
+  "imageUrl": "https://thoibaotaichinhvietnam.vn/stores/news_dataimages/thoibaotaichinhvietnamvn/102017/15/22/lienvietpostbank-duoc-kinh-doanh-cung-ung-dich-vu-ngoai-hoi-06-.2012.png"
+},
+{
+  "_id": {
+    "$oid": "66ec433e484309d4dadaeaba"
+  },
+  "bankName": "TPBank",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9Cpp1nDLbzIrK_-ljQsqJOGbytIiiDAgmQ&s"
+}]

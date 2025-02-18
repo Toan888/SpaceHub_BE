@@ -1,0 +1,1645 @@
+[{
+  "_id": {
+    "$oid": "66fb94f0e758c49d8a023763"
+  },
+  "name": "Phòng dạy thêm",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam"
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi"
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction"
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit"
+    },
+    {
+      "name": "Laptop",
+      "iconName": "Laptop"
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker"
+    },
+    {
+      "name": "Máy in",
+      "iconName": "Print"
+    },
+    {
+      "name": "Kệ sách",
+      "iconName": "LibraryBooks"
+    },
+    {
+      "name": "Đèn học",
+      "iconName": "Lightbulb"
+    },
+    {
+      "name": "Ổ cắm điện và cổng sạc USB",
+      "iconName": "Power"
+    },
+    {
+      "name": "Quạt thông gió",
+      "iconName": "WindPower"
+    },
+    {
+      "name": "Bàn ghế học tập",
+      "iconName": "TableRestaurant"
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fb94f0e758c49d8a023766"
+  },
+  "name": "Phòng họp",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam"
+    },
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv"
+    },
+    {
+      "name": "Hệ thống âm thanh",
+      "iconName": "Speaker"
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair"
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect"
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit"
+    },
+    {
+      "name": "Bảng viết",
+      "iconName": "CallToAction"
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv"
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi"
+    },
+    {
+      "name": "Tủ đựng tài liệu",
+      "iconName": "Storage"
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb"
+    },
+    {
+      "name": "Quạt thông gió",
+      "iconName": "WindPower"
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  }
+},{
+  "_id": {
+    "$oid": "675bca4514e4e0fb33dc993c"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675bca4514e4e0fb33dc993d"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-13T05:46:45.470Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T05:47:08.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5965e3242f7c823d2b80"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5965e3242f7c823d2b81"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d5965e3242f7c823d2b82"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d5965e3242f7c823d2b84"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5965e3242f7c823d2b85"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d5965e3242f7c823d2b86"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:09:41.798Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:09:41.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d59a8e3242f7c823d2bce"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d59a8e3242f7c823d2bcf"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d59a8e3242f7c823d2bd0"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d59a8e3242f7c823d2bd2"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d59a8e3242f7c823d2bd3"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d59a8e3242f7c823d2bd4"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:10:48.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:10:48.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d59dde3242f7c823d2c39"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d59dde3242f7c823d2c3a"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d59dde3242f7c823d2c3b"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d59dde3242f7c823d2c3d"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d59dde3242f7c823d2c3e"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d59dde3242f7c823d2c3f"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:11:41.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:11:41.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5a38e3242f7c823d2ccd"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5a38e3242f7c823d2cce"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d5a38e3242f7c823d2ccf"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d5a38e3242f7c823d2cd1"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5a38e3242f7c823d2cd2"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d5a38e3242f7c823d2cd3"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:13:12.518Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:13:12.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5abae3242f7c823d2d92"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5abae3242f7c823d2d93"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d5abae3242f7c823d2d94"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d5abae3242f7c823d2d96"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5abae3242f7c823d2d97"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d5abae3242f7c823d2d98"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:15:22.906Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:15:22.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5b53e3242f7c823d2e92"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5b53e3242f7c823d2e93"
+      }
+    },
+    {
+      "name": "Hệ thống âm thanh",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d5b53e3242f7c823d2e94"
+      }
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair",
+      "_id": {
+        "$oid": "675d5b53e3242f7c823d2e95"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5b53e3242f7c823d2e96"
+      }
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5b53e3242f7c823d2e97"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5b53e3242f7c823d2e98"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d5b53e3242f7c823d2e99"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d5b53e3242f7c823d2e9a"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d5b53e3242f7c823d2e9b"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:17:55.859Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:17:55.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5bd3e3242f7c823d2fdf"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5bd3e3242f7c823d2fe0"
+      }
+    },
+    {
+      "name": "Hệ thống âm thanh",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d5bd3e3242f7c823d2fe1"
+      }
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair",
+      "_id": {
+        "$oid": "675d5bd3e3242f7c823d2fe2"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5bd3e3242f7c823d2fe3"
+      }
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5bd3e3242f7c823d2fe4"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5bd3e3242f7c823d2fe5"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d5bd3e3242f7c823d2fe6"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d5bd3e3242f7c823d2fe7"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d5bd3e3242f7c823d2fe8"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:20:03.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:20:03.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5c53e3242f7c823d3178"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5c53e3242f7c823d3179"
+      }
+    },
+    {
+      "name": "Hệ thống âm thanh",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d5c53e3242f7c823d317a"
+      }
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair",
+      "_id": {
+        "$oid": "675d5c53e3242f7c823d317b"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5c53e3242f7c823d317c"
+      }
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5c53e3242f7c823d317d"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5c53e3242f7c823d317e"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d5c53e3242f7c823d317f"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d5c53e3242f7c823d3180"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d5c53e3242f7c823d3181"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:22:11.010Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:22:11.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5ca6e3242f7c823d337a"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5ca6e3242f7c823d337b"
+      }
+    },
+    {
+      "name": "Hệ thống âm thanh",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d5ca6e3242f7c823d337c"
+      }
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair",
+      "_id": {
+        "$oid": "675d5ca6e3242f7c823d337d"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5ca6e3242f7c823d337e"
+      }
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5ca6e3242f7c823d337f"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5ca6e3242f7c823d3380"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d5ca6e3242f7c823d3381"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d5ca6e3242f7c823d3382"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d5ca6e3242f7c823d3383"
+      }
+    },
+    {
+      "name": "Bảng viết",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d5ca6e3242f7c823d3384"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:23:34.522Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:23:34.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5d22e3242f7c823d35eb"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5d22e3242f7c823d35ec"
+      }
+    },
+    {
+      "name": "Hệ thống âm thanh",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d5d22e3242f7c823d35ed"
+      }
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair",
+      "_id": {
+        "$oid": "675d5d22e3242f7c823d35ee"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5d22e3242f7c823d35ef"
+      }
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5d22e3242f7c823d35f0"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5d22e3242f7c823d35f1"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d5d22e3242f7c823d35f2"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d5d22e3242f7c823d35f3"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d5d22e3242f7c823d35f4"
+      }
+    },
+    {
+      "name": "Bảng viết",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d5d22e3242f7c823d35f5"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:25:38.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:25:38.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5d7de3242f7c823d3b4e"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5d7de3242f7c823d3b4f"
+      }
+    },
+    {
+      "name": "Hệ thống âm thanh",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d5d7de3242f7c823d3b50"
+      }
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair",
+      "_id": {
+        "$oid": "675d5d7de3242f7c823d3b51"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5d7de3242f7c823d3b52"
+      }
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d5d7de3242f7c823d3b53"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5d7de3242f7c823d3b54"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d5d7de3242f7c823d3b55"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d5d7de3242f7c823d3b56"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d5d7de3242f7c823d3b57"
+      }
+    },
+    {
+      "name": "Bảng viết",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d5d7de3242f7c823d3b58"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:27:09.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:27:09.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5e55e3242f7c823d57a1"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5e55e3242f7c823d57a2"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5e55e3242f7c823d57a3"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d5e55e3242f7c823d57a4"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d5e55e3242f7c823d57a5"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:30:45.564Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:34:12.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d5ffae3242f7c823d5b44"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b45"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b47"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b48"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b49"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:37:46.812Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:37:46.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6084e3242f7c823d5c28"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d6084e3242f7c823d5c29"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d6084e3242f7c823d5c2a"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d6084e3242f7c823d5c2b"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d6084e3242f7c823d5c2c"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:40:04.426Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:40:04.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d63e4e3242f7c823d5cd5"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d63e4e3242f7c823d5cd6"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d63e4e3242f7c823d5cd8"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d63e4e3242f7c823d5cd9"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d63e4e3242f7c823d5cda"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:54:28.228Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:54:28.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d64b1e3242f7c823d5e26"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e27"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e28"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e29"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e2a"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e2b"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T10:57:53.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T10:57:53.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d65cfe3242f7c823d5ed4"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d65cfe3242f7c823d5ed5"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d65cfe3242f7c823d5ed6"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d65cfe3242f7c823d5ed7"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d65cfe3242f7c823d5ed8"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d65cfe3242f7c823d5ed9"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T11:02:39.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:03:22.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d66f1e3242f7c823d618d"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d618e"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d618f"
+      }
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d6190"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d6191"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T11:07:29.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:07:29.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d69eee3242f7c823d695a"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d695b"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d695c"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d695d"
+      }
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d695e"
+      }
+    },
+    {
+      "name": "Bảng viết",
+      "iconName": "CallToAction",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d695f"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d6960"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d6961"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d6962"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T11:20:14.024Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:20:14.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6b48e3242f7c823d6c4a"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d6b48e3242f7c823d6c4b"
+      }
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair",
+      "_id": {
+        "$oid": "675d6b48e3242f7c823d6c4c"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d6b48e3242f7c823d6c4d"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d6b48e3242f7c823d6c4e"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d6b48e3242f7c823d6c4f"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d6b48e3242f7c823d6c50"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T11:26:00.433Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:36:34.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6da7e3242f7c823d780c"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d780d"
+      }
+    },
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d780e"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d780f"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d7810"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d7811"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d7812"
+      }
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d7813"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T11:36:07.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:36:07.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6ed9e3242f7c823d7e9d"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7e9e"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7e9f"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7ea0"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7ea1"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7ea2"
+      }
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair",
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7ea3"
+      }
+    },
+    {
+      "name": "Hệ thống âm thanh",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7ea4"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T11:41:13.265Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:41:13.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6f76e3242f7c823d806d"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d806e"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d806f"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d8070"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d8071"
+      }
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d8072"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d8073"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T11:43:50.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:43:50.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6fe8e3242f7c823d8143"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8144"
+      }
+    },
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8145"
+      }
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8146"
+      }
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8147"
+      }
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8148"
+      }
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8149"
+      }
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d814a"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "createdAt": {
+    "$date": "2024-12-14T11:45:44.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:45:44.580Z"
+  },
+  "__v": 0
+}]

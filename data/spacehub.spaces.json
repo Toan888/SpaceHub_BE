@@ -1,0 +1,1049 @@
+[{
+  "_id": {
+    "$oid": "67165a1cc805abbf89ee7f25"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.844448,
+      20.946594
+    ]
+  },
+  "name": "Studio For Rent - Photography Space",
+  "description": "Đây là một studio cho thuê lý tưởng dành cho những nhiếp ảnh gia chuyên nghiệp\nvà nghiệp dư, với không gian rộng rãi và thiết bị hiện đại. Studio này được\ntrang bị đầy đủ, với các hệ thống ánh sáng có thể điều chỉnh và các phông nền\nlinh hoạt. Được thiết kế để phù hợp với mọi loại hình chụp ảnh như chụp ảnh sản\nphẩm, chân dung hoặc sự kiện, studio này sẽ cung cấp không gian làm việc thoải\nmái và sáng tạo. Với diện tích rộng, nơi đây là sự lựa chọn hoàn hảo cho các\nbuổi chụp ảnh chuyên nghiệp.",
+  "location": "Việt Long, Sóc Sơn, Hà Nội",
+  "area": "60",
+  "rulesId": {
+    "$oid": "671657d24ab4fdd3a3ab86c0"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 310000,
+  "pricePerDay": 1000000,
+  "pricePerWeek": 3000000,
+  "pricePerMonth": 500000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/zp8oerk09rtprqixf9p8",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518063/spacehub/img_space/zp8oerk09rtprqixf9p8.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f2c"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/dzscfaz67czx0lpzkjhk",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518063/spacehub/img_space/dzscfaz67czx0lpzkjhk.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f2d"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/pihokydnvyfwa6js7liy",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518063/spacehub/img_space/pihokydnvyfwa6js7liy.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f2e"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/azzdkomxou29rkicgqgx",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518063/spacehub/img_space/azzdkomxou29rkicgqgx.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f2f"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/cwbho5hptlvp5zpr2nli",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518063/spacehub/img_space/cwbho5hptlvp5zpr2nli.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f30"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/dxdz2kjwpkyc7l5o61qh",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518063/spacehub/img_space/dxdz2kjwpkyc7l5o61qh.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f31"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/nfdc4zhssplwvgu86qe4",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518064/spacehub/img_space/nfdc4zhssplwvgu86qe4.jpg",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f32"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ed4zmysd72rho04nucw5",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518064/spacehub/img_space/ed4zmysd72rho04nucw5.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f33"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/i9pj5jkf9fjaski6lnxw",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518064/spacehub/img_space/i9pj5jkf9fjaski6lnxw.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f34"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/hxzuuuws2fxz9jdkkr8c",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518064/spacehub/img_space/hxzuuuws2fxz9jdkkr8c.jpg",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f35"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/gttglpkwtezaj0b707b2",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518085/spacehub/img_space/gttglpkwtezaj0b707b2.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f36"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/nytrflzihbypfzsgxgjz",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518085/spacehub/img_space/nytrflzihbypfzsgxgjz.jpg",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f37"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/tf3s5fvylcm1mzmibc1v",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518085/spacehub/img_space/tf3s5fvylcm1mzmibc1v.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f38"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/aif76qwwaeyeadtznugn",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518085/spacehub/img_space/aif76qwwaeyeadtznugn.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f39"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/oi42nx7m0hwcebfyljac",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518085/spacehub/img_space/oi42nx7m0hwcebfyljac.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f3a"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/szrpmwotvtleuanygtva",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518084/spacehub/img_space/szrpmwotvtleuanygtva.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f3b"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ggegcuqlmyyt7nwotflp",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518085/spacehub/img_space/ggegcuqlmyyt7nwotflp.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f3c"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/gbzyrqcfbfl59zvdacab",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518084/spacehub/img_space/gbzyrqcfbfl59zvdacab.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f3d"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/sltfvwrmklg1egl4bgsv",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518085/spacehub/img_space/sltfvwrmklg1egl4bgsv.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f3e"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/gapmd5ju3x4sak7xlybh",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518085/spacehub/img_space/gapmd5ju3x4sak7xlybh.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f3f"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/xy2amzaazw7mjcm5apiw",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518091/spacehub/img_space/xy2amzaazw7mjcm5apiw.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f40"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/lrtwb2sniuglof7kx0uy",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518092/spacehub/img_space/lrtwb2sniuglof7kx0uy.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f41"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/bnjudstzmhkfpn9g0znw",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518092/spacehub/img_space/bnjudstzmhkfpn9g0znw.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f42"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/mx9decu51ey2lmloxlk2",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729518092/spacehub/img_space/mx9decu51ey2lmloxlk2.webp",
+      "_id": {
+        "$oid": "67165a1cc805abbf89ee7f43"
+      }
+    }
+  ],
+  "latLng": [
+    21.244598,
+    105.909408
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "67165a1cc805abbf89ee7f14"
+  },
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "createdAt": {
+    "$date": "2024-10-21T13:41:48.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-29T16:46:19.208Z"
+  },
+  "__v": 1,
+  "isGoldenHour": false
+},
+{
+  "_id": {
+    "$oid": "6716600fc805abbf89eea509"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.844448,
+      20.946594
+    ]
+  },
+  "name": "LEIZART STUDIO",
+  "description": "Đây là một studio cho thuê lý tưởng dành cho những nhiếp ảnh gia chuyên nghiệp\nvà nghiệp dư, với không gian rộng rãi và thiết bị hiện đại. Studio này được\ntrang bị đầy đủ, với các hệ thống ánh sáng có thể điều chỉnh và các phông nền\nlinh hoạt. Được thiết kế để phù hợp với mọi loại hình chụp ảnh như chụp ảnh sản\nphẩm, chân dung hoặc sự kiện, studio này sẽ cung cấp không gian làm việc thoải\nmái và sáng tạo. Với diện tích rộng, nơi đây là sự lựa chọn hoàn hảo cho các\nbuổi chụp ảnh chuyên nghiệp.",
+  "location": "Việt Long, Sóc Sơn, Hà Nội",
+  "area": "40",
+  "rulesId": {
+    "$oid": "6716600fc805abbf89eea4f6"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 320000,
+  "pricePerDay": 1000000,
+  "pricePerWeek": 3000000,
+  "pricePerMonth": 5000000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/otnofdgbewhtnaczqbud",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519609/spacehub/img_space/otnofdgbewhtnaczqbud.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea50a"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/xzjtnnx3xslxts7cy878",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519609/spacehub/img_space/xzjtnnx3xslxts7cy878.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea50b"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/dyf2jyotdqo7a6w8qrm2",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519609/spacehub/img_space/dyf2jyotdqo7a6w8qrm2.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea50c"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/wchq8rf9bz9ky3yoftvr",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519609/spacehub/img_space/wchq8rf9bz9ky3yoftvr.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea50d"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/mvfcyzkmc8rbmfxscwzh",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519609/spacehub/img_space/mvfcyzkmc8rbmfxscwzh.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea50e"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/emwx7xn0mzqhasvqdmfw",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519622/spacehub/img_space/emwx7xn0mzqhasvqdmfw.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea50f"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/th1jguotggxyvvmjcnuk",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519622/spacehub/img_space/th1jguotggxyvvmjcnuk.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea510"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ah59jyqrc4veqccw1fht",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519621/spacehub/img_space/ah59jyqrc4veqccw1fht.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea511"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/aunyftyr2kkinc7f0dce",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519623/spacehub/img_space/aunyftyr2kkinc7f0dce.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea512"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/jklnnh3p6igypivhnbsw",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519621/spacehub/img_space/jklnnh3p6igypivhnbsw.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea513"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/qdwsu0ckgkryc6jlx7s8",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729519622/spacehub/img_space/qdwsu0ckgkryc6jlx7s8.webp",
+      "_id": {
+        "$oid": "6716600fc805abbf89eea514"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "6716600fc805abbf89eea4f8"
+  },
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "createdAt": {
+    "$date": "2024-10-21T14:07:11.229Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T16:33:17.544Z"
+  },"latLng": [
+    21.244598,
+    105.909408
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671666fb347346a1d77935db"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.844448,
+      20.946594
+    ]
+  },
+  "name": "Studio For Rent - Photography Space",
+  "description": "Đây là một studio cho thuê lý tưởng dành cho những nhiếp ảnh gia chuyên nghiệp\nvà nghiệp dư, với không gian rộng rãi và thiết bị hiện đại. Studio này được\ntrang bị đầy đủ, với các hệ thống ánh sáng có thể điều chỉnh và các phông nền\nlinh hoạt. Được thiết kế để phù hợp với mọi loại hình chụp ảnh như chụp ảnh sản\nphẩm, chân dung hoặc sự kiện, studio này sẽ cung cấp không gian làm việc thoải\nmái và sáng tạo. Với diện tích rộng, nơi đây là sự lựa chọn hoàn hảo cho các\nbuổi chụp ảnh chuyên nghiệp.  ",
+  "location": "Việt Long, Sóc Sơn, Hà Nội",
+  "area": "44",
+  "rulesId": {
+    "$oid": "671666f8b3e150a76b63472c"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 300000,
+  "pricePerDay": 1000000,
+  "pricePerWeek": 3000000,
+  "pricePerMonth": 5000000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/nndrmlcwlczoocp2pdgv",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521386/spacehub/img_space/nndrmlcwlczoocp2pdgv.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935dc"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/oo06pucry4lf0dt2suts",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521387/spacehub/img_space/oo06pucry4lf0dt2suts.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935dd"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/crcdyvjj6riq39shpxe1",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521386/spacehub/img_space/crcdyvjj6riq39shpxe1.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935de"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/hmii2bwwhdodoksrzzgb",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521386/spacehub/img_space/hmii2bwwhdodoksrzzgb.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935df"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/skavitzaxotnpyipzgr1",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521386/spacehub/img_space/skavitzaxotnpyipzgr1.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935e0"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/b7cuqbkfidznr1lfk4pf",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521386/spacehub/img_space/b7cuqbkfidznr1lfk4pf.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935e1"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/sqjhv7huaqcqtsrbuvro",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521393/spacehub/img_space/sqjhv7huaqcqtsrbuvro.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935e2"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/mvtddf9d8olz5dbd73be",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521394/spacehub/img_space/mvtddf9d8olz5dbd73be.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935e3"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/kppdmkdi1fjcht1zvvzf",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521393/spacehub/img_space/kppdmkdi1fjcht1zvvzf.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935e4"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/vnwiurcppscmuphnvghn",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521393/spacehub/img_space/vnwiurcppscmuphnvghn.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935e5"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ijryctecjyzne3exkwe9",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521394/spacehub/img_space/ijryctecjyzne3exkwe9.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935e6"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/l1uks4xvivo5mwelhqk5",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521398/spacehub/img_space/l1uks4xvivo5mwelhqk5.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935e7"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/qlnih8edyklowbixwhfp",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521398/spacehub/img_space/qlnih8edyklowbixwhfp.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935e8"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/boj9vhpmvcksmvibhtmc",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521398/spacehub/img_space/boj9vhpmvcksmvibhtmc.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935e9"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/jvuqlnwq3uftzdvsevv5",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521398/spacehub/img_space/jvuqlnwq3uftzdvsevv5.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935ea"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/fq2ngjhhtjwp7psw6msz",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729521398/spacehub/img_space/fq2ngjhhtjwp7psw6msz.webp",
+      "_id": {
+        "$oid": "671666fb347346a1d77935eb"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "671666fb347346a1d77935cb"
+  },
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "createdAt": {
+    "$date": "2024-10-21T14:36:43.243Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T12:23:45.194Z"
+  },
+  "latLng": [
+    21.244598,
+    105.909408
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67166c6c347346a1d779668c"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.844448,
+      20.946594
+    ]
+  },
+  "name": "FD Photo Studio Yukon",
+  "description": "Infinity Photo & video studio với trần RGB hoàn toàn có thể điều khiển Studio\nnày nằm ở tầng trệt với một cổng tải lớn cho phép ô tô và xe đạp chỉ cần lái xe\nvào. Đèn RGB hoàn toàn có thể điều khiển và có thể được đồng bộ hóa với âm nhạc.\nTrần nhà cao 8ft. Tất cả các không gian của chúng tôi được đặt rất nhanh! Thời\ngian có sẵn RẤT nhạy cảm với thời gian. Yêu cầu đặt chỗ của bạn nên bao gồm thời\ngian thiết lập và phân tích. Đặt chỗ được đặt ngược lại. Vui lòng ghi nhớ điều\nnày khi yêu cầu đặt phòng của bạn. Chúc mừng (ảnh/video) shootings!  ",
+  "location": "Việt Long, Sóc Sơn, Hà Nội",
+  "area": "60",
+  "rulesId": {
+    "$oid": "67166c69347346a1d779665f"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 500000,
+  "pricePerDay": 2000000,
+  "pricePerWeek": 5000000,
+  "pricePerMonth": 10000000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/kj5ghi74s1fa6scbup7w",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522738/spacehub/img_space/kj5ghi74s1fa6scbup7w.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d779668d"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/zmg1ekoz3qbnbyntdzob",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522738/spacehub/img_space/zmg1ekoz3qbnbyntdzob.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d779668e"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/g8lx2ixypydosniepy29",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522738/spacehub/img_space/g8lx2ixypydosniepy29.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d779668f"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ma6usklziozqoax1cxqi",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522738/spacehub/img_space/ma6usklziozqoax1cxqi.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d7796690"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/gseudrbnxfjuleqb7mn8",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522738/spacehub/img_space/gseudrbnxfjuleqb7mn8.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d7796691"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/mqqcm1ksxqx08rvvmcb6",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522737/spacehub/img_space/mqqcm1ksxqx08rvvmcb6.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d7796692"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/c9looofhy7anfjb3vxvl",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522738/spacehub/img_space/c9looofhy7anfjb3vxvl.jpg",
+      "_id": {
+        "$oid": "67166c6c347346a1d7796693"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/kdln80iulz9qaykbgyhc",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522738/spacehub/img_space/kdln80iulz9qaykbgyhc.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d7796694"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/g8qgp4rj4ibyt30btywn",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522760/spacehub/img_space/g8qgp4rj4ibyt30btywn.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d7796695"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/acx2oip2mhxm30v5wioo",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522760/spacehub/img_space/acx2oip2mhxm30v5wioo.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d7796696"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/y9uyuxqgwmfxeonbg9xa",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522760/spacehub/img_space/y9uyuxqgwmfxeonbg9xa.jpg",
+      "_id": {
+        "$oid": "67166c6c347346a1d7796697"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/vyvknrmkjhyp5mqdta78",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522760/spacehub/img_space/vyvknrmkjhyp5mqdta78.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d7796698"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ngbq0hauigmzb6ezbxtl",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522761/spacehub/img_space/ngbq0hauigmzb6ezbxtl.jpg",
+      "_id": {
+        "$oid": "67166c6c347346a1d7796699"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/imyefypqydnhojy9htlf",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729522761/spacehub/img_space/imyefypqydnhojy9htlf.webp",
+      "_id": {
+        "$oid": "67166c6c347346a1d779669a"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "67166c6c347346a1d779667f"
+  },
+  "reviews": [],
+  "reportCount": 1,
+  "favorite": false,
+  "isUpdate": false,
+  "createdAt": {
+    "$date": "2024-10-21T14:59:56.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T13:36:08.701Z"
+  },
+  "latLng": [
+    21.244598,
+    105.909408
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671670f4347346a1d7799ab9"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.844448,
+      20.946594
+    ]
+  },
+  "name": "Multi set Daylight/Blackout Photography/Video Studio",
+  "description": "Một studio ảnh / video nhiều bộ có sẵn cho thuê ở Hackney Central, London. Đây\nlà một không gian rộng 600sq. ft có thể được sử dụng cho Nhiếp ảnh, Quay phim,\nSáng tạo Nội dung, Podcast, Hội thảo và nhiều hơn nữa.  ",
+  "location": "Việt Long, Sóc Sơn, Hà Nội",
+  "area": "52",
+  "rulesId": {
+    "$oid": "671670f1347346a1d7799a90"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 420000,
+  "pricePerDay": 1500000,
+  "pricePerWeek": 3200000,
+  "pricePerMonth": 6000000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/sxjp2xibkwmtbz4dvuff",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523940/spacehub/img_space/sxjp2xibkwmtbz4dvuff.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799aba"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/bynpbpubd8suvmr6anul",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523939/spacehub/img_space/bynpbpubd8suvmr6anul.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799abb"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ooc7ncoqpp0d9vgrchnl",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523940/spacehub/img_space/ooc7ncoqpp0d9vgrchnl.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799abc"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/d65z4q6dnsoayankst0p",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523940/spacehub/img_space/d65z4q6dnsoayankst0p.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799abd"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/t75mwiq8ltpjystirjaz",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523940/spacehub/img_space/t75mwiq8ltpjystirjaz.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799abe"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/tqaydemwqvdgowkcimnw",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523941/spacehub/img_space/tqaydemwqvdgowkcimnw.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799abf"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/de6gktzw0gocr9hqbea4",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523940/spacehub/img_space/de6gktzw0gocr9hqbea4.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799ac0"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/r343lpuh41fopkqxbqbe",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523941/spacehub/img_space/r343lpuh41fopkqxbqbe.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799ac1"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/kyxv6rf6lgdhcyv7s9vy",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523946/spacehub/img_space/kyxv6rf6lgdhcyv7s9vy.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799ac2"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/f9dafkyqa1nlwmqk0uah",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523946/spacehub/img_space/f9dafkyqa1nlwmqk0uah.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799ac3"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/rdhxlzl0r6riblmcnufs",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523946/spacehub/img_space/rdhxlzl0r6riblmcnufs.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799ac4"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/opnrux0c1uui7kyf4j5s",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523948/spacehub/img_space/opnrux0c1uui7kyf4j5s.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799ac5"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/exyg5qc0vvmzuroiamae",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523946/spacehub/img_space/exyg5qc0vvmzuroiamae.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799ac6"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/epiqcdkkqtdclf8lofge",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729523948/spacehub/img_space/epiqcdkkqtdclf8lofge.webp",
+      "_id": {
+        "$oid": "671670f4347346a1d7799ac7"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "671670f4347346a1d7799aae"
+  },
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "createdAt": {
+    "$date": "2024-10-21T15:19:16.387Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T13:17:20.397Z"
+  },
+  "__v": 1,
+  "isGoldenHour": false,
+  "latLng": [
+    21.244598,
+    105.909408
+  ]
+},
+{
+  "_id": {
+    "$oid": "6716756fd830e9144b882618"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.844448,
+      20.946594
+    ]
+  },
+  "name": "Spacious Classroom/Meeting Room",
+  "description": "Các phòng họp độc đáo và trọn gói của chúng tôi rất dễ đặt, vị trí thuận tiện và\ncó phong cách để liên lạc. Từ các tiện nghi công nghệ miễn phí đến nhân viên tại\nchỗ có thể đáp ứng mọi nhu cầu họp hàng ngày, các phòng họp của chúng tôi cho\nphép trải nghiệm địa điểm họp chuyên nghiệp và hiệu quả. Những phẩm chất này làm\ncho phòng của chúng tôi trở nên hoàn hảo để giúp nhóm của bạn bắt kịp và làm cho\ncuộc họp khách hàng hoặc cuộc họp hội đồng quản trị trở thành một trải nghiệm\nliền mạch. Chưa kể đến những cơ hội chúng tôi cung cấp cho các doanh nghiệp nhỏ.\n ",
+  "location": "Việt Long, Sóc Sơn, Hà Nội",
+  "area": "43",
+  "rulesId": {
+    "$oid": "6716756c65cf2586bc47245b"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 300000,
+  "pricePerDay": 520000,
+  "pricePerWeek": 1100000,
+  "pricePerMonth": 4000000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/vdytwu2r4ptg5schnsg0",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525063/spacehub/img_space/vdytwu2r4ptg5schnsg0.webp",
+      "_id": {
+        "$oid": "6716756fd830e9144b882619"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/afxav9safm6yn4cksuix",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525063/spacehub/img_space/afxav9safm6yn4cksuix.webp",
+      "_id": {
+        "$oid": "6716756fd830e9144b88261a"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/h6xxol5gqcnsudcxlmua",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525063/spacehub/img_space/h6xxol5gqcnsudcxlmua.webp",
+      "_id": {
+        "$oid": "6716756fd830e9144b88261b"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/bb7oihhq0ruirgqbthhm",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525063/spacehub/img_space/bb7oihhq0ruirgqbthhm.webp",
+      "_id": {
+        "$oid": "6716756fd830e9144b88261c"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/scs1pcjfdve2jow2txnl",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525063/spacehub/img_space/scs1pcjfdve2jow2txnl.webp",
+      "_id": {
+        "$oid": "6716756fd830e9144b88261d"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/lnphoowkh7bgpcdsrfym",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525063/spacehub/img_space/lnphoowkh7bgpcdsrfym.webp",
+      "_id": {
+        "$oid": "6716756fd830e9144b88261e"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/tbvsjmvzswbrshi86r13",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525063/spacehub/img_space/tbvsjmvzswbrshi86r13.webp",
+      "_id": {
+        "$oid": "6716756fd830e9144b88261f"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/wfuctojtcs5gomn3vxgw",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525064/spacehub/img_space/wfuctojtcs5gomn3vxgw.webp",
+      "_id": {
+        "$oid": "6716756fd830e9144b882620"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/gy3yav12in6ouu1rfsh6",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525092/spacehub/img_space/gy3yav12in6ouu1rfsh6.webp",
+      "_id": {
+        "$oid": "6716756fd830e9144b882621"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "6716756fd830e9144b88260e"
+  },
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": true,
+  "isUpdate": false,
+  "createdAt": {
+    "$date": "2024-10-21T15:38:23.159Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-22T16:40:11.126Z"
+  },
+  "latLng": [
+    21.244598,
+    105.909408
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6716781aec29f2af8f2690a8"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.844448,
+      20.946594
+    ]
+  },
+  "name": "Production/Meeting Room in Culver City near Sony Studios",
+  "description": "Văn phòng mô-đun lớn  MAX 20 khách do COVID. Hoàn hảo để quay phim, các cuộc\nhọp, phỏng vấn, đào tạo, thuyết trình và làm việc ngoài trang web. Bạn có thể\nđiều chỉnh một chút cài đặt để phù hợp với nhu cầu của mình nhưng phải đặt tất\ncả trở lại vị trí để tránh phí $ 50. Chỗ đỗ xe miễn phí ngay trong khuôn viên.\nWIFI, Máy chiếu và Bảng trắng lớn. Có một bàn tiếp tân mà bạn sử dụng nếu cần.\nPhòng vệ sinh bên trong. Tự pha cà phê tại đây. Nước miễn phí. Vui lòng nêu rõ\nnếu bạn cần cả hai phòng. Cảm ơn bạn. Tôi có thể kết hợp cả hai phòng với giá 60\nđô la giờ. Chỗ đậu xe:7. Bãi đậu xe được chia sẻ với những người thuê nhà khác,\ncũng có bãi đậu xe miễn phí và có đồng hồ đo. Vui lòng làm theo HƯỚNG DẪN AN\nTOÀN COVID",
+  "location": "Việt Long, Sóc Sơn, Hà Nội",
+  "area": "53",
+  "rulesId": {
+    "$oid": "67167817ec29f2af8f269083"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 330000,
+  "pricePerDay": 500000,
+  "pricePerWeek": 1000000,
+  "pricePerMonth": 3000000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/uezcv0dihyolequtbrvk",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525773/spacehub/img_space/uezcv0dihyolequtbrvk.webp",
+      "_id": {
+        "$oid": "6716781aec29f2af8f2690a9"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/unywtl2jqyjlyyiv3smq",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525774/spacehub/img_space/unywtl2jqyjlyyiv3smq.webp",
+      "_id": {
+        "$oid": "6716781aec29f2af8f2690aa"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/lcsvhglwhz1jdcdsg5zm",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525773/spacehub/img_space/lcsvhglwhz1jdcdsg5zm.webp",
+      "_id": {
+        "$oid": "6716781aec29f2af8f2690ab"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/nq5jzmtzfz3rr1egjf2f",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525773/spacehub/img_space/nq5jzmtzfz3rr1egjf2f.webp",
+      "_id": {
+        "$oid": "6716781aec29f2af8f2690ac"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/c6etad907f4mpury85uo",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525773/spacehub/img_space/c6etad907f4mpury85uo.webp",
+      "_id": {
+        "$oid": "6716781aec29f2af8f2690ad"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/hb8bgtsppydy2isqyshz",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525773/spacehub/img_space/hb8bgtsppydy2isqyshz.webp",
+      "_id": {
+        "$oid": "6716781aec29f2af8f2690ae"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/zhfaykzpumxyechvfaiv",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525773/spacehub/img_space/zhfaykzpumxyechvfaiv.webp",
+      "_id": {
+        "$oid": "6716781aec29f2af8f2690af"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/jng7ac9zeyrku7vlqwgf",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525773/spacehub/img_space/jng7ac9zeyrku7vlqwgf.webp",
+      "_id": {
+        "$oid": "6716781aec29f2af8f2690b0"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/rum2cheaotrygmjmltb7",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525773/spacehub/img_space/rum2cheaotrygmjmltb7.webp",
+      "_id": {
+        "$oid": "6716781aec29f2af8f2690b1"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/hxhsopkm2plkv80neers",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1729525773/spacehub/img_space/hxhsopkm2plkv80neers.webp",
+      "_id": {
+        "$oid": "6716781aec29f2af8f2690b2"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "67167819ec29f2af8f26909d"
+  },
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "createdAt": {
+    "$date": "2024-10-21T15:49:46.015Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T16:31:44.725Z"
+  },
+  "__v": 1,
+  "communityStandardsId": {
+    "$oid": "66ed8eca5af2082abdf97281"
+  },
+  "isGoldenHour": false,
+ "latLng": [
+    21.244598,
+    105.909408
+  ]
+}
+]

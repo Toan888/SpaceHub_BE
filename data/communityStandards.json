@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "672276a4dff81c047a142137"
+  },
+  "selectedReasons": [
+    "Nội dung không phù hợp",
+    "Thiếu thông tin chi tiết, gây không rõ ràng hoặc hiểu nhầm"
+  ],
+  "customReason": "Thông tin không đầy đủ hoặc không chính xác"
+}]

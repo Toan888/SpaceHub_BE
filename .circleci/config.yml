@@ -1,0 +1,74 @@
+version: 2.1
+
+jobs:
+
+  install_and_zip:
+    docker:
+      - image: cimg/node:22.12.0  
+    working_directory: ~/repo
+    steps:
+      - checkout 
+      - run:
+          name: Install dependencies
+          command: |
+            npm install
+      - run:
+          name: Zip the project
+          command: |
+            zip -r app.zip . 
+      - persist_to_workspace:
+          root: .
+          paths:
+            - app.zip 
+
+  deploy:
+    docker:
+      - image: circleci/python:3.8 
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - attach_workspace:
+          at: .
+      - run:
+          name: Install sshpass and scp
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y sshpass zip
+      - run:
+          name: Check directory
+          command: |
+            ls -l
+      - run:
+          name: Transfer ZIP file to server using SCP
+          command: |
+            # Use sshpass for password-based SCP transfer
+            sshpass -p "$SSH_PASSWORD" ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null root@103.179.191.223 "rm -rf /root/deploy/be && mkdir /root/deploy/be"
+            sshpass -p "$SSH_PASSWORD" scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null app.zip root@103.179.191.223:/root/deploy/be
+      - run:
+          name: Deploy
+          command: |
+            sshpass -p "$SSH_PASSWORD" ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null root@103.179.191.223 '
+              export NVM_DIR="$HOME/.nvm";
+              [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"; 
+              npm install -g pm2;  
+              cd /root/deploy/be;
+              unzip -o app.zip;
+              pm2 reload be;  
+            '
+
+workflows:
+  version: 2
+  deploy:
+    jobs:
+      - install_and_zip:
+          filters:
+            branches:
+              only:
+                - main
+      - deploy:
+          requires:
+            - install_and_zip
+          filters:
+            branches:
+              only:
+                - main 

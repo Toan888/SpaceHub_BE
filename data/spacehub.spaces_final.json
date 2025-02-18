@@ -1,0 +1,1222 @@
+[{
+  "_id": {
+    "$oid": "675d5ffae3242f7c823d5b4e"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.8433146366118,
+      21.02424552764852
+    ]
+  },
+  "latLng": [
+    21.02424552764852,
+    105.8433146366118
+  ],
+  "name": "không gian học tập 1",
+  "description": "Không gian này là phòng học hoặc làm việc sáng tạo, mang phong cách công nghiệp hiện đại với tường gạch thô và trần cao có xà trắng. Bàn dài gỗ trung tâm kết hợp ghế nhựa màu sắc nổi bật tạo không khí năng động và thoải mái. Hệ thống ánh sáng đèn dây và cửa sổ lớn giúp không gian thêm ấm cúng và thoáng đãng. Phòng còn có bảng trắng lớn, các góc trưng bày tranh và đồ vật trang trí nghệ thuật, phù hợp cho các buổi học nhóm, workshop hoặc làm việc sáng tạo.",
+  "location": "35 Ngõ Vạn Kiếp, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội",
+  "area": "50",
+  "rulesId": {
+    "$oid": "675d5ffae3242f7c823d5b42"
+  },
+  "communityStandardsId": {
+    "$oid": "675d5ffae3242f7c823d5b4b"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 50000,
+  "pricePerDay": 400000,
+  "pricePerMonth": 0,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/woybpb2zkvo5bk7zns7o",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734172665/spacehub/img_space/woybpb2zkvo5bk7zns7o.webp",
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b4f"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/bnfxscg8uh5kjfouekjg",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734172663/spacehub/img_space/bnfxscg8uh5kjfouekjg.webp",
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b50"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/n42cbptgdoxmnxwgj4gs",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734172663/spacehub/img_space/n42cbptgdoxmnxwgj4gs.webp",
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b51"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/xalw8ija8x0g2cx3dnef",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734172663/spacehub/img_space/xalw8ija8x0g2cx3dnef.webp",
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b52"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "appliancesId": {
+    "$oid": "675d5ffae3242f7c823d5b44"
+  },
+  "isGoldenHour": true,
+  "goldenHourDetails": [
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b53"
+      }
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b54"
+      }
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b55"
+      }
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b56"
+      }
+    },
+    {
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b57"
+      }
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b58"
+      }
+    },
+    {
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b59"
+      }
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d5ffae3242f7c823d5b5a"
+      }
+    }
+  ],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T10:37:46.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:16:00.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6084e3242f7c823d5c31"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.8125656164224,
+      21.02151999475465
+    ]
+  },
+  "latLng": [
+    21.02151999475465,
+    105.8125656164224
+  ],
+  "name": "không gian học tập 2",
+  "description": "Không gian học tập cho thuê rộng rãi, hiện đại với bàn ghế xám đồng bộ, được bố trí khoa học. Cửa kính lớn giúp đón ánh sáng tự nhiên, kết hợp với tường gạch cổ mang đến cảm giác thoáng đãng và chuyên nghiệp. Phù hợp cho lớp học, hội thảo hoặc các buổi đào tạo nhỏ.",
+  "location": "105, 105E6 P. Thành Công, Thành Công, Ba Đình, Hà Nội",
+  "area": "54",
+  "rulesId": {
+    "$oid": "675d6084e3242f7c823d5c26"
+  },
+  "communityStandardsId": {
+    "$oid": "675d6084e3242f7c823d5c2e"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 40000,
+  "pricePerDay": 350000,
+  "pricePerMonth": 0,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/j01k19jz36jlhbzyt9zu",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734172798/spacehub/img_space/j01k19jz36jlhbzyt9zu.webp",
+      "_id": {
+        "$oid": "675d6084e3242f7c823d5c32"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/qdcjpuk9iup6hv3xuxno",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734172798/spacehub/img_space/qdcjpuk9iup6hv3xuxno.webp",
+      "_id": {
+        "$oid": "675d6084e3242f7c823d5c33"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/kt1rehsh4pbeinxqcdug",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734172798/spacehub/img_space/kt1rehsh4pbeinxqcdug.webp",
+      "_id": {
+        "$oid": "675d6084e3242f7c823d5c34"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/thgf6act9hdfvvhklcwj",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734172798/spacehub/img_space/thgf6act9hdfvvhklcwj.webp",
+      "_id": {
+        "$oid": "675d6084e3242f7c823d5c35"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/kwlrp2gkpcjn9y2jmi2m",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734172798/spacehub/img_space/kwlrp2gkpcjn9y2jmi2m.webp",
+      "_id": {
+        "$oid": "675d6084e3242f7c823d5c36"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "appliancesId": {
+    "$oid": "675d6084e3242f7c823d5c28"
+  },
+  "isGoldenHour": false,
+  "goldenHourDetails": [],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T10:40:04.483Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:15:59.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d64b1e3242f7c823d5e30"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.82934326992066,
+      21.022091948952458
+    ]
+  },
+  "latLng": [
+    21.022091948952458,
+    105.82934326992066
+  ],
+  "name": "không gian học tập 3",
+  "description": "Không gian phòng học sáng sủa, hiện đại với bàn ghế linh hoạt, tone trắng cam nổi bật. Trần cao thoáng đãng, nhiều cửa sổ đón ánh sáng tự nhiên. Trang bị bảng trắng, máy chiếu, phù hợp cho hội thảo, họp nhóm và các buổi đào tạo chuyên nghiệp.",
+  "location": "10 Ng. Quan Thổ 1, Hàng Bột, Đống Đa, Hà Nội",
+  "area": "60",
+  "rulesId": {
+    "$oid": "675d64b1e3242f7c823d5e24"
+  },
+  "communityStandardsId": {
+    "$oid": "675d64b1e3242f7c823d5e2d"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 60000,
+  "pricePerDay": 500000,
+  "pricePerMonth": 10000000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/jpt3cu8hlgwne5urdewa",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734173853/spacehub/img_space/jpt3cu8hlgwne5urdewa.webp",
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e31"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/qctotzbrsnajdhetuyvb",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734173851/spacehub/img_space/qctotzbrsnajdhetuyvb.webp",
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e32"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ipdgzeu3poxyfzymjwp5",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734173852/spacehub/img_space/ipdgzeu3poxyfzymjwp5.webp",
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e33"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/rrkjwh29alscxj2c8qzq",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734173852/spacehub/img_space/rrkjwh29alscxj2c8qzq.webp",
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e34"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/afktxnlvc0cmwllivowc",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734173852/spacehub/img_space/afktxnlvc0cmwllivowc.webp",
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e35"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "appliancesId": {
+    "$oid": "675d64b1e3242f7c823d5e26"
+  },
+  "isGoldenHour": true,
+  "goldenHourDetails": [
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "priceIncrease": 15,
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e36"
+      }
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "priceIncrease": 15,
+      "_id": {
+        "$oid": "675d64b1e3242f7c823d5e37"
+      }
+    }
+  ],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T10:57:53.417Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:15:58.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d65cfe3242f7c823d5ede"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.79949074570389,
+      20.988887785771357
+    ]
+  },
+  "latLng": [
+    20.988887785771357,
+    105.79949074570389
+  ],
+  "name": "không gian học tập 4",
+  "description": "Không gian học tập rộng rãi, thoáng đãng với thiết kế cổ điển kết hợp hiện đại, mang lại cảm giác ấm cúng và tập trung. Phòng được trang bị đầy đủ bàn ghế thoải mái, máy chiếu và màn chiếu lớn phục vụ cho việc giảng dạy và trình bày. Ánh sáng tự nhiên chan hòa cùng trần cao và sàn gỗ tạo không khí học tập dễ chịu. Bao quanh là các kệ sách cổ điển, tạo điểm nhấn tri thức và truyền cảm hứng học tập. Phù hợp cho các lớp học chuyên đề, khóa đào tạo, hội thảo giáo dục hoặc không gian tự học nhóm cần sự yên tĩnh và chuyên nghiệp.",
+  "location": "636 Đường Nguyễn Trãi, Tổ 25, Thanh Xuân, Hà Nội",
+  "area": "50",
+  "rulesId": {
+    "$oid": "675d65cfe3242f7c823d5ed2"
+  },
+  "communityStandardsId": {
+    "$oid": "675d65cfe3242f7c823d5edb"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 50000,
+  "pricePerDay": 450000,
+  "pricePerMonth": 0,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/rpfxj8qnqxvweyj5pftr",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734174193/spacehub/img_space/rpfxj8qnqxvweyj5pftr.webp",
+      "_id": {
+        "$oid": "675d65fae3242f7c823d605e"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/hfyg0n7ioi8qaoda3zem",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734174193/spacehub/img_space/hfyg0n7ioi8qaoda3zem.webp",
+      "_id": {
+        "$oid": "675d65fae3242f7c823d605f"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/jtqtbm1v7oqgm9uj6drj",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734174193/spacehub/img_space/jtqtbm1v7oqgm9uj6drj.webp",
+      "_id": {
+        "$oid": "675d65fae3242f7c823d6060"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ri4zl9jcbloamids1spu",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734174193/spacehub/img_space/ri4zl9jcbloamids1spu.webp",
+      "_id": {
+        "$oid": "675d65fae3242f7c823d6061"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/whofu8so0r7mjalwyce2",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734174193/spacehub/img_space/whofu8so0r7mjalwyce2.webp",
+      "_id": {
+        "$oid": "675d65fae3242f7c823d6062"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "appliancesId": {
+    "$oid": "675d65cfe3242f7c823d5ed4"
+  },
+  "isGoldenHour": true,
+  "goldenHourDetails": [
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d65cfe3242f7c823d5ee4"
+      }
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d65cfe3242f7c823d5ee5"
+      }
+    }
+  ],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T11:02:39.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:15:57.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d66f1e3242f7c823d6196"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      106.0831704031329,
+      21.191833465338444
+    ]
+  },
+  "latLng": [
+    21.191833465338444,
+    106.0831704031329
+  ],
+  "name": "không gian học tập 5",
+  "description": "Không gian được thiết kế mở với phong cách công nghiệp độc đáo, kết hợp hoàn hảo giữa khu vực học tập và giải trí. Điểm nhấn bao gồm tường leo núi trong nhà, khu chơi golf giả lập và máy game arcade, tạo nên môi trường vừa năng động vừa thư giãn. Bàn ghế rộng rãi, tiện nghi phù hợp cho các buổi họp nhóm, workshop hoặc sự kiện nhỏ. Hệ thống đèn LED hiện đại cùng nội thất tối giản mang lại cảm giác sáng tạo và chuyên nghiệp.",
+  "location": "21 Đường Xóm Trại, Thị Cầu, Bắc Ninh",
+  "area": "55",
+  "rulesId": {
+    "$oid": "675d66f1e3242f7c823d618b"
+  },
+  "communityStandardsId": {
+    "$oid": "675d66f1e3242f7c823d6193"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 45000,
+  "pricePerDay": 350000,
+  "pricePerMonth": 7500000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/ulxm9ym5j0dckddno4us",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734174446/spacehub/img_space/ulxm9ym5j0dckddno4us.webp",
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d6197"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/gxqmjd0puiv8nm4xelsh",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734174446/spacehub/img_space/gxqmjd0puiv8nm4xelsh.webp",
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d6198"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/hbz308jvmhpfggnwbyvz",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734174447/spacehub/img_space/hbz308jvmhpfggnwbyvz.webp",
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d6199"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/uq4o4blxm34zmeqgrsaf",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734174447/spacehub/img_space/uq4o4blxm34zmeqgrsaf.jpg",
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d619a"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/m8ov4fkhwvimxdl9fwpe",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734174448/spacehub/img_space/m8ov4fkhwvimxdl9fwpe.webp",
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d619b"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "appliancesId": {
+    "$oid": "675d66f1e3242f7c823d618d"
+  },
+  "isGoldenHour": true,
+  "goldenHourDetails": [
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d619c"
+      }
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d66f1e3242f7c823d619d"
+      }
+    }
+  ],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T11:07:29.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:15:57.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d69eee3242f7c823d6967"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      106.70926559575305,
+      10.748597679684998
+    ]
+  },
+  "latLng": [
+    10.748597679684998,
+    106.70926559575305
+  ],
+  "name": "không gian làm việc 1",
+  "description": "Không gian rộng rãi với tông màu cam ấm áp, được trang bị bàn tròn và ghế ngồi thoải mái, phù hợp cho các buổi làm việc nhóm, họp bàn chiến lược hoặc tổ chức workshop. Hệ thống đèn chiếu sáng nhẹ nhàng và nội thất gỗ tạo cảm giác gần gũi, thân thiện. Khu vực quầy phục vụ tiện lợi kèm các thiết bị cơ bản như nước uống và không gian đựng đồ giúp buổi làm việc trở nên thuận tiện hơn.",
+  "location": "2 Đường Số 1, Tân Kiểng, Quận 7, Hồ Chí Minh",
+  "area": "65",
+  "rulesId": {
+    "$oid": "675d69ede3242f7c823d6958"
+  },
+  "communityStandardsId": {
+    "$oid": "675d69eee3242f7c823d6964"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 75000,
+  "pricePerDay": 650000,
+  "pricePerMonth": 13500000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/vdsm6vkoal3zuhld2gbe",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734175171/spacehub/img_space/vdsm6vkoal3zuhld2gbe.webp",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d6968"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/xkuk6ceoo6dzvf8hiktg",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734175171/spacehub/img_space/xkuk6ceoo6dzvf8hiktg.webp",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d6969"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/f3bqqqdjwiksomqrnyrf",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734175173/spacehub/img_space/f3bqqqdjwiksomqrnyrf.webp",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d696a"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/sacfo2jwbbpslefkzawn",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734175171/spacehub/img_space/sacfo2jwbbpslefkzawn.webp",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d696b"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/la6u8ulcjtfjdzoi8o6s",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734175171/spacehub/img_space/la6u8ulcjtfjdzoi8o6s.webp",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d696c"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/q9ruwh47cora3sp9nhym",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734175171/spacehub/img_space/q9ruwh47cora3sp9nhym.webp",
+      "_id": {
+        "$oid": "675d69eee3242f7c823d696d"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "675d69eee3242f7c823d695a"
+  },
+  "isGoldenHour": true,
+  "goldenHourDetails": [
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "priceIncrease": 10,
+      "_id": {
+        "$oid": "675d69eee3242f7c823d696e"
+      }
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "priceIncrease": 10,
+      "_id": {
+        "$oid": "675d69eee3242f7c823d696f"
+      }
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "priceIncrease": 10,
+      "_id": {
+        "$oid": "675d69eee3242f7c823d6970"
+      }
+    },
+    {
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "priceIncrease": 10,
+      "_id": {
+        "$oid": "675d69eee3242f7c823d6971"
+      }
+    }
+  ],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T11:20:14.099Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:24:05.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6b48e3242f7c823d6c55"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.83193254446398,
+      21.03337590162414
+    ]
+  },
+  "latLng": [
+    21.03337590162414,
+    105.83193254446398
+  ],
+  "name": "không gian làm việc 2",
+  "description": "Với thiết kế mở, phong cách hiện đại và tràn ngập ánh sáng tự nhiên, nơi đây là lựa chọn hoàn hảo cho các buổi chụp hình, quay phim, hội thảo hay gặp gỡ nhóm làm việc. Không gian được bố trí tinh tế với nội thất tối giản, bao gồm bàn ăn lớn, ghế ngồi thoải mái, sofa thư giãn và những chi tiết trang trí nhẹ nhàng như cây xanh và bình hoa. Những ô cửa sổ rộng rãi không chỉ mang đến nguồn sáng tự nhiên dồi dào mà còn tạo nên bầu không khí thoáng đãng, dễ chịu cho mọi hoạt động.",
+  "location": "28 Ngõ 32 Sơn Tây, Điện Biên, Ba Đình, Hà Nội",
+  "area": "55",
+  "rulesId": {
+    "$oid": "675d6b48e3242f7c823d6c48"
+  },
+  "communityStandardsId": {
+    "$oid": "675d6b48e3242f7c823d6c52"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 50000,
+  "pricePerDay": 400000,
+  "pricePerMonth": 8700000,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/nb72qfhamsy0coynqh3f",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734175556/spacehub/img_space/nb72qfhamsy0coynqh3f.webp",
+      "_id": {
+        "$oid": "675d6dc2e3242f7c823d78d9"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ocv4ptofyyy2zwxl6lk5",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734175557/spacehub/img_space/ocv4ptofyyy2zwxl6lk5.webp",
+      "_id": {
+        "$oid": "675d6dc2e3242f7c823d78da"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/wg7q3x7yxkixmitxitth",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734175557/spacehub/img_space/wg7q3x7yxkixmitxitth.webp",
+      "_id": {
+        "$oid": "675d6dc2e3242f7c823d78db"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/y8lwkzdlypxhlow1hxlb",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176190/spacehub/img_space/y8lwkzdlypxhlow1hxlb.webp",
+      "_id": {
+        "$oid": "675d6dc2e3242f7c823d78dc"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "675d6b48e3242f7c823d6c4a"
+  },
+  "isGoldenHour": true,
+  "goldenHourDetails": [
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d6b48e3242f7c823d6c5a"
+      }
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d6b48e3242f7c823d6c5b"
+      }
+    }
+  ],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T11:26:00.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:37:48.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6da7e3242f7c823d7818"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.87504120783983,
+      20.98461884973654
+    ]
+  },
+  "latLng": [
+    20.98461884973654,
+    105.87504120783983
+  ],
+  "name": "không gian làm việc 3",
+  "description": "Không gian làm việc và tổ chức sự kiện hiện đại, thoáng đãng với thiết kế mở, sân khấu chuyên nghiệp và hệ thống âm thanh, ánh sáng đầy đủ. Sức chứa lớn, phù hợp cho hội thảo, workshop, họp nhóm và sự kiện doanh nghiệp. Ánh sáng tự nhiên kết hợp với nội thất tinh tế mang lại trải nghiệm chuyên nghiệp và thoải mái. Liên hệ ngay để đặt lịch!",
+  "location": "18 Ngõ 295 Lĩnh Nam, Vĩnh Hưng, Hoàng Mai, Hà Nội",
+  "area": "45",
+  "rulesId": {
+    "$oid": "675d6da7e3242f7c823d780a"
+  },
+  "communityStandardsId": {
+    "$oid": "675d6da7e3242f7c823d7815"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 50000,
+  "pricePerDay": 400000,
+  "pricePerMonth": 0,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/hckuoufznchaithrpunw",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176072/spacehub/img_space/hckuoufznchaithrpunw.webp",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d7819"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/hlrpylfzzduq4eh956y7",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176072/spacehub/img_space/hlrpylfzzduq4eh956y7.webp",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d781a"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/fxbs1qcmzca6zvcmg7sl",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176072/spacehub/img_space/fxbs1qcmzca6zvcmg7sl.webp",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d781b"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/s2guoomuy52ettjtgwk3",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176072/spacehub/img_space/s2guoomuy52ettjtgwk3.webp",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d781c"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/w8szlfuya5h89p538p1t",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176073/spacehub/img_space/w8szlfuya5h89p538p1t.webp",
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d781d"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "675d6da7e3242f7c823d780c"
+  },
+  "isGoldenHour": true,
+  "goldenHourDetails": [
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d781e"
+      }
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d6da7e3242f7c823d781f"
+      }
+    }
+  ],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T11:36:07.190Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:37:46.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6ed9e3242f7c823d7ea9"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.81369899821286,
+      21.035136475825627
+    ]
+  },
+  "latLng": [
+    21.035136475825627,
+    105.81369899821286
+  ],
+  "name": "không gian làm việc 4",
+  "description": "Không gian cho thuê rộng rãi, hiện đại với thiết kế mở và ánh sáng tự nhiên tràn ngập. Khu vực được bố trí ghế trắng gọn gàng, thích hợp cho hội thảo, sự kiện, hoặc các buổi làm việc nhóm. Phòng có nội thất tiện nghi, bao gồm bàn đứng diễn thuyết, quầy bar nhỏ ở phía sau và khu vực ngồi thư giãn. Trần nhà với kết cấu gỗ độc đáo và cửa sổ lớn tạo cảm giác thoáng đãng, thoải mái. Phù hợp cho các buổi gặp mặt chuyên nghiệp, đào tạo hoặc thuyết trình.",
+  "location": "Ngõ 7 Kim Mã Thượng, Cống Vị, Ba Đình, Hà Nội",
+  "area": "75",
+  "rulesId": {
+    "$oid": "675d6ed9e3242f7c823d7e9b"
+  },
+  "communityStandardsId": {
+    "$oid": "675d6ed9e3242f7c823d7ea6"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 45000,
+  "pricePerDay": 320000,
+  "pricePerMonth": 0,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/ez5cbwhohgaa6qyhqyzg",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176439/spacehub/img_space/ez5cbwhohgaa6qyhqyzg.webp",
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7eaa"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ah4nwsnw7e4j4umhpkea",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176437/spacehub/img_space/ah4nwsnw7e4j4umhpkea.webp",
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7eab"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/dovzdxtm6xjerkbqsncs",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176437/spacehub/img_space/dovzdxtm6xjerkbqsncs.webp",
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7eac"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "675d6ed9e3242f7c823d7e9d"
+  },
+  "isGoldenHour": true,
+  "goldenHourDetails": [
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "priceIncrease": 10,
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7ead"
+      }
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "priceIncrease": 10,
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7eae"
+      }
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "priceIncrease": 10,
+      "_id": {
+        "$oid": "675d6ed9e3242f7c823d7eaf"
+      }
+    }
+  ],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T11:41:13.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:46:34.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6f76e3242f7c823d8078"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.82820636894797,
+      21.025365120241858
+    ]
+  },
+  "latLng": [
+    21.025365120241858,
+    105.82820636894797
+  ],
+  "name": "không gian học tập 5",
+  "description": "Không gian phòng họp hiện đại với thiết kế tối giản và tiện nghi. Phòng được trang bị ghế đen xếp thành hàng ngay ngắn, màn hình lớn phục vụ thuyết trình hoặc họp trực tuyến. Ánh sáng đèn trần kết hợp cùng cửa sổ nhỏ mang lại cảm giác thông thoáng, chuyên nghiệp. Phù hợp cho các buổi đào tạo, hội thảo, họp nhóm hoặc lớp học. Trang trí tường với các câu trích dẫn truyền cảm hứng tạo thêm năng lượng tích cực cho không gian làm việc.",
+  "location": "24 Ngõ 152 Hào Nam, Ô Chợ Dừa, Đống Đa, Hà Nội",
+  "area": "66",
+  "rulesId": {
+    "$oid": "675d6f76e3242f7c823d806b"
+  },
+  "communityStandardsId": {
+    "$oid": "675d6f76e3242f7c823d8075"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 75000,
+  "pricePerDay": 650000,
+  "pricePerMonth": 0,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/bgxz48uf0vla5ai1f7sm",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176615/spacehub/img_space/bgxz48uf0vla5ai1f7sm.webp",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d8079"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/prwkxqpbp9gpfs3oh1dj",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176614/spacehub/img_space/prwkxqpbp9gpfs3oh1dj.webp",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d807a"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/n0xohp68u8cfmvefohj8",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176615/spacehub/img_space/n0xohp68u8cfmvefohj8.webp",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d807b"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/ehbnsolhusbxvcgscjoc",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176615/spacehub/img_space/ehbnsolhusbxvcgscjoc.webp",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d807c"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/mpeczunpmryqgpe6erx4",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176615/spacehub/img_space/mpeczunpmryqgpe6erx4.webp",
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d807d"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "675d6f76e3242f7c823d806d"
+  },
+  "isGoldenHour": true,
+  "goldenHourDetails": [
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d807e"
+      }
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "priceIncrease": 5,
+      "_id": {
+        "$oid": "675d6f76e3242f7c823d807f"
+      }
+    }
+  ],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T11:43:50.320Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:46:34.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d6fe8e3242f7c823d814f"
+  },
+  "locationPoint": {
+    "type": "Point",
+    "coordinates": [
+      105.89830292546317,
+      21.03747585662437
+    ]
+  },
+  "latLng": [
+    21.03747585662437,
+    105.89830292546317
+  ],
+  "name": "không gian làm việc 6",
+  "description": "Không gian phòng họp chuyên nghiệp với bàn dài bố trí theo hình chữ U, phù hợp cho các cuộc họp nhóm, hội nghị hoặc thảo luận nhóm. Phòng được trang bị ghế gỗ sang trọng, khăn trải bàn đen lịch sự và các vật dụng như sổ ghi chú, nước uống, trái cây trang trí, mang lại sự chuẩn bị chu đáo cho người tham dự. Cửa sổ lớn cùng ánh sáng tự nhiên giúp không gian trở nên thoáng đãng, kết hợp với màn hình tivi hỗ trợ trình chiếu và thuyết trình. Thiết kế tối giản, hiện đại rất thích hợp cho các buổi họp mặt chuyên nghiệp hoặc workshop.",
+  "location": "5 Đường Nguyễn Sơn, Khu tập thể 981, Phúc Đồng, Long Biên, Hà Nội",
+  "area": "46",
+  "rulesId": {
+    "$oid": "675d6fe8e3242f7c823d8141"
+  },
+  "communityStandardsId": {
+    "$oid": "675d6fe8e3242f7c823d814c"
+  },
+  "userId": {
+    "$oid": "6639786d743f79c9b97fc1c2"
+  },
+  "pricePerHour": 63000,
+  "pricePerDay": 0,
+  "pricePerMonth": 0,
+  "images": [
+    {
+      "public_id": "spacehub/img_space/ro9d7tqbbxix3gbrkltu",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176725/spacehub/img_space/ro9d7tqbbxix3gbrkltu.webp",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8150"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/vz1kbjzothnncdsp2wdz",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176735/spacehub/img_space/vz1kbjzothnncdsp2wdz.webp",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8151"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/czqk5aocxsk62h5p4ge0",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176735/spacehub/img_space/czqk5aocxsk62h5p4ge0.webp",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8152"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/nvpdlf1juulmoe0zkd1h",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176735/spacehub/img_space/nvpdlf1juulmoe0zkd1h.webp",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8153"
+      }
+    },
+    {
+      "public_id": "spacehub/img_space/kbmb7mql2dvvk0c1q6b1",
+      "url": "https://res.cloudinary.com/dakpa1ph2/image/upload/v1734176735/spacehub/img_space/kbmb7mql2dvvk0c1q6b1.webp",
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8154"
+      }
+    }
+  ],
+  "censorship": "Chấp nhận",
+  "status": "Đang sử dụng",
+  "categoriesId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  },
+  "appliancesId": {
+    "$oid": "675d6fe8e3242f7c823d8143"
+  },
+  "isGoldenHour": true,
+  "goldenHourDetails": [
+    {
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "priceIncrease": 12,
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8155"
+      }
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "priceIncrease": 12,
+      "_id": {
+        "$oid": "675d6fe8e3242f7c823d8156"
+      }
+    }
+  ],
+  "reviews": [],
+  "reportCount": 0,
+  "favorite": false,
+  "isUpdate": false,
+  "detailAddress": "",
+  "createdAt": {
+    "$date": "2024-12-14T11:45:44.653Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T11:46:33.694Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    ports:
+      - "27018:27017"
+    environment:
+      MONGO_INITDB_DATABASE: spacehub
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: 123456
+    volumes:
+      - ./docker_data/mongodb_data:/data/db
+      - ./data:/initdata    
+
+volumes:
+  mongodb_data:
+    driver: local

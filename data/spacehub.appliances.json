@@ -1,0 +1,246 @@
+<<<<<<< HEAD
+[
+{
+=======
+[{
+>>>>>>> ccfa0a12bb72c4d3414613ad711cd4a64d39025f
+  "_id": {
+    "$oid": "66fb94f0e758c49d8a023763"
+  },
+  "name": "Phòng dạy thêm",
+  "appliances": [
+    {
+      "name": "Ghế học sinh",
+      "iconName": "ChairAlt"
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam"
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi"
+    },
+    {
+      "name": "Ghế giáo viên",
+      "iconName": "EventSeat"
+    },
+    {
+      "name": "Bảng đen",
+      "iconName": "CallToAction"
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit"
+    },
+    {
+      "name": "Laptop",
+      "iconName": "Laptop"
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker"
+    },
+    {
+      "name": "Máy in",
+      "iconName": "Print"
+    },
+    {
+      "name": "Kệ sách",
+      "iconName": "LibraryBooks"
+    },
+    {
+      "name": "Bục sân khấu",
+      "iconName": "PanoramaVerticalSelect"
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fb94f0e758c49d8a023766"
+  },
+  "name": "Phòng họp",
+  "appliances": [
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam"
+    },
+    {
+      "name": "Màn hình lớn",
+      "iconName": "Tv"
+    },
+    {
+      "name": "Hệ thống âm thanh",
+      "iconName": "Speaker"
+    },
+    {
+      "name": "Bàn và ghế họp",
+      "iconName": "Chair"
+    },
+    {
+      "name": "Bục thuyết trình",
+      "iconName": "PanoramaVerticalSelect"
+    },
+    {
+      "name": "Điều hòa",
+      "iconName": "AcUnit"
+    },
+    {
+      "name": "Bảng viết",
+      "iconName": "CallToAction"
+    },
+    {
+      "name": "TV",
+      "iconName": "Tv"
+    },
+    {
+      "name": "WiFi",
+      "iconName": "Wifi"
+    },
+    {
+      "name": "Tủ đựng tài liệu",
+      "iconName": "Storage"
+    },
+    {
+      "name": "Hệ thống đèn chiếu sáng",
+      "iconName": "Lightbulb"
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8947"
+  }
+<<<<<<< HEAD
+=======
+},
+{
+  "_id": {
+    "$oid": "67472c2f7db123ab2c3bf812"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Ghế học sinh",
+      "iconName": "ChairAlt",
+      "_id": {
+        "$oid": "67472c2f7db123ab2c3bf813"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "67472c2f7db123ab2c3bf814"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-11-27T14:26:55.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T14:26:55.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67472ce17db123ab2c3bf97e"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Ghế học sinh",
+      "iconName": "ChairAlt",
+      "_id": {
+        "$oid": "67472c2f7db123ab2c3bf813"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "67472c2f7db123ab2c3bf814"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-11-27T14:29:53.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T14:29:53.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67472e5a7db123ab2c3bf9ac"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Ghế học sinh",
+      "iconName": "ChairAlt",
+      "_id": {
+        "$oid": "67472e5a7db123ab2c3bf9ad"
+      }
+    },
+    {
+      "name": "Máy chiếu",
+      "iconName": "Videocam",
+      "_id": {
+        "$oid": "67472e5a7db123ab2c3bf9ae"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-11-27T14:36:10.955Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T14:36:10.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674731c4d6a1b076b1d04fe7"
+  },
+  "name": "",
+  "appliances": [
+    {
+      "name": "Laptop",
+      "iconName": "Laptop",
+      "_id": {
+        "$oid": "674731c4d6a1b076b1d04fe8"
+      }
+    },
+    {
+      "name": "Loa",
+      "iconName": "Speaker",
+      "_id": {
+        "$oid": "674731c4d6a1b076b1d04fe9"
+      }
+    }
+  ],
+  "categoryId": {
+    "$oid": "66eafbb0cb37101e8e8f8946"
+  },
+  "createdAt": {
+    "$date": "2024-11-27T14:50:44.589Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T14:50:44.589Z"
+  },
+  "__v": 0
+>>>>>>> ccfa0a12bb72c4d3414613ad711cd4a64d39025f
+}]

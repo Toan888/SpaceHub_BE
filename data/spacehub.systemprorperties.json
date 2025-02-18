@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "67304ba64d99e684e6acb4e9"
+  },
+  "code": "system_account_balance",
+  "value": "1000000",
+  "updatedAt": {
+    "$date": "2024-11-30T13:56:00.111Z"
+  }
+}]
